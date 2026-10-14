@@ -1,0 +1,2 @@
+year,team,MAE,NMAPE,MSE,MSLE,RMSLE,comparison_note
+2025,previous_1st,44.51,3.42,9979.19,0.156,0.395,"Verify units, target resolution, and metric definitions before comparing with 2026"
